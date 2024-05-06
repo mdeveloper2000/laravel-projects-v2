@@ -1,0 +1,16 @@
+@import url("~bootstrap/css/bootstrap.min.css");
+@import url("~bootstrap-icons/bootstrap-icons.css");
+
+.container a {
+    text-decoration: none;
+    color: #fff;
+}
+
+textarea {
+    resize: none;
+}
+
+.img-sm {
+    width: 32px;
+    height: 32px;
+}
